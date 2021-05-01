@@ -1,8 +1,6 @@
 # hello-world
 This is my first repository to say hello to the world.
 
-## Heading 2
-Hello world. 
+## This is me
+My name is Friederike. I'm 24 years old. I have a dog called Barney. He's 10 years old. My favourite food is pizza. 
 
-### Heading 3 
-Hello World.
